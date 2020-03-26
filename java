@@ -1,0 +1,3 @@
+system.out.print ln()
+{
+}
